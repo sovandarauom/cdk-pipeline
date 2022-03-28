@@ -1,0 +1,8 @@
+{
+  "manualApprovals" : true,
+  "env" : "dev",
+  "gitHubRepositoryOwner": "sovandarauom",
+  "gitHubRepository": "demo",
+  "gitHubSecret": "",
+  "gitHubBranch": "prod"
+}
